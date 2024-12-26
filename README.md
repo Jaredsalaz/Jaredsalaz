@@ -4,15 +4,10 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes de progr
 
 **Mis intereses de investigación**:
 - Robótica y Mecatrónica
+- Redes y Electrónica
 - Inteligencia Artificial con TensorFlow
 - Ciberseguridad y Hacking Ético
-- Redes y Electrónica
-
-**Estoy abierto a**:
-- cualquier trabajo de colaboración,
-- proyectos de desarrollo o investigación en inteligencia artificial,
-- pasantías de investigación y
-- disponible para ser revisor o miembro del comité de programas para revistas o conferencias de ciberseguridad y tecnología.
+- Aplicacion Web
 
 ## Habilidades:
 
