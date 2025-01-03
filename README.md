@@ -9,6 +9,11 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes de progr
 - Ciberseguridad y Hacking Ético
 - Aplicacion Web
 
+## Certificados:
+
+- **PCEP – Certified Entry-Level Python Programmer**
+  - [Ver credencial](https://www.credly.com/badges/81c7306e-a9c7-4957-a570-87d2b6db0f3a)
+
 ## Habilidades:
 
 #### Lenguajes:
@@ -77,10 +82,8 @@ Soy un desarrollador apasionado con experiencia en múltiples lenguajes de progr
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/tu-perfil/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/tu-perfil) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@tu-perfil)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/tu-perfil)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/jared-daniel-salazar-sánchez-aa1286320)
+
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tus estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=buefy&hide_border=true" /></a> |
