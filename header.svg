@@ -1,0 +1,51 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Jared Salazar — Software Developer, Security, AI</title>
+  <desc>Cyberpunk-style profile header for Jared Salazar Sanchez</desc>
+
+  <rect width="800" height="160" fill="#020d08"/>
+
+  <!-- grid horizontal -->
+  <line x1="0" y1="32"  x2="800" y2="32"  stroke="#00ffaa" stroke-width="0.4" opacity="0.12"/>
+  <line x1="0" y1="64"  x2="800" y2="64"  stroke="#00ffaa" stroke-width="0.4" opacity="0.12"/>
+  <line x1="0" y1="96"  x2="800" y2="96"  stroke="#00ffaa" stroke-width="0.4" opacity="0.12"/>
+  <line x1="0" y1="128" x2="800" y2="128" stroke="#00ffaa" stroke-width="0.4" opacity="0.12"/>
+  <!-- grid vertical -->
+  <line x1="80"  y1="0" x2="80"  y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="160" y1="0" x2="160" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="240" y1="0" x2="240" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="320" y1="0" x2="320" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="400" y1="0" x2="400" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="480" y1="0" x2="480" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="560" y1="0" x2="560" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="640" y1="0" x2="640" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+  <line x1="720" y1="0" x2="720" y2="160" stroke="#00ffaa" stroke-width="0.4" opacity="0.08"/>
+
+  <!-- outer border -->
+  <rect x="4" y="4" width="792" height="152" fill="none" stroke="#00ffaa" stroke-width="1" opacity="0.5"/>
+
+  <!-- corner brackets TL -->
+  <polyline points="4,28 4,4 28,4"       fill="none" stroke="#00ffaa" stroke-width="2"/>
+  <!-- corner brackets TR -->
+  <polyline points="772,4 796,4 796,28"  fill="none" stroke="#00ffaa" stroke-width="2"/>
+  <!-- corner brackets BL -->
+  <polyline points="4,132 4,156 28,156"  fill="none" stroke="#00ffaa" stroke-width="2"/>
+  <!-- corner brackets BR -->
+  <polyline points="772,156 796,156 796,132" fill="none" stroke="#00ffaa" stroke-width="2"/>
+
+  <!-- top label -->
+  <text x="400" y="26" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#00ffaa" opacity="0.55" letter-spacing="4">// IDENTIFICADO · TUXTLA, CHIAPAS · MX</text>
+
+  <!-- main name -->
+  <text x="400" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="32" font-weight="700" fill="#ffffff" letter-spacing="8">JARED <tspan fill="#00ffaa">SALAZAR</tspan></text>
+
+  <!-- role line -->
+  <text x="400" y="104" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#00ffaa" opacity="0.8" letter-spacing="3">SOFTWARE DEVELOPER  ·  SECURITY  ·  AI</text>
+
+  <!-- status bar -->
+  <rect x="180" y="120" width="440" height="18" rx="2" fill="#001a0e" stroke="#00ffaa" stroke-width="0.6" opacity="0.7"/>
+  <text x="196" y="133" font-family="'Courier New', monospace" font-size="10" fill="#00ffaa" opacity="0.9">STATUS: [██████████] ONLINE</text>
+  <text x="440" y="133" font-family="'Courier New', monospace" font-size="10" fill="#00ffaa" opacity="0.5">·  PCAP™  ·  PCEP™  ·  exploit.dev</text>
+
+  <!-- bottom label -->
+  <text x="400" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00ffaa" opacity="0.35" letter-spacing="3">github.com/Jaredsalaz · 2026</text>
+</svg>
