@@ -1,27 +1,16 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--              HEADER CYBERPUNK / HACKER STYLE                 -->
-<!-- ============================================================ -->
+<img src="./header.svg" width="100%" alt="Jared Salazar — Software Developer, Security, AI" />
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░ IDENTIFICADO ░░░░░░░░░░░░░░░░░░░░░░    ║
-║                                                              ║
-║        J A R E D   S A L A Z A R   S A N C H E Z             ║
-║        Software Developer  //  Security  //  AI              ║
-║                                                              ║
-║  STATUS: [██████████] ONLINE   LOC: Tuxtla, MX   ██ █ █      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<br/><br/>
 
 <a href="https://github.com/Jaredsalaz">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGuux8E-uIgfA/profile-displayphoto-shrink_400_400/B4DZQvntnTHYAg-/0/1735965727497?e=1786579200&v=beta&t=luaSKtET4sJoytgSKgxq7zNc7068CPuuZQuP9tgHbLg" width="130" style="border-radius:50%; border: 2px solid #00ffaa;" alt="Jared Salazar" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGuux8E-uIgfA/profile-displayphoto-shrink_400_400/B4DZQvntnTHYAg-/0/1735965727497?e=1786579200&v=beta&t=luaSKtET4sJoytgSKgxq7zNc7068CPuuZQuP9tgHbLg" width="120" style="border-radius:50%;" alt="Jared Salazar" />
 </a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=python+balam.py+--run;ssh+root%40exploit.local;go+build+.%2FsincroPro;nmap+-sV+target.host;git+commit+-m+"building+the+future")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=python+balam.py+--run;nmap+-sV+target.host;msfconsole+-q;go+build+.%2FsincroPro;git+commit+-m+"exploit+the+ordinary")](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,11 +30,6 @@
 </div>
 
 ---
-
-```
-> whoami
-jared@salazar:~$ ▌
-```
 
 ### `// SOBRE MÍ`
 
@@ -85,21 +69,32 @@ Soy **Jared Salazar**, desarrollador backend apasionado por crear soluciones efi
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-#### IA & Data
+#### IA & Ciencia de Datos
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### Ciberseguridad
+#### Ciberseguridad & Hacking Ético
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge)
+![BeEF](https://img.shields.io/badge/BeEF-000000?style=for-the-badge)
+
+#### Hardware & Microcontroladores
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 #### Bases de Datos & DevOps
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -109,36 +104,35 @@ Soy **Jared Salazar**, desarrollador backend apasionado por crear soluciones efi
 ### `// PROYECTO DESTACADO`
 
 <a href="https://github.com/Jaredsalaz/barberia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaredsalaz&repo=barberia&theme=tokyonight&hide_border=true&border_color=00ffaa" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaredsalaz&repo=barberia&theme=tokyonight&hide_border=true" />
 </a>
 
 > **Balam** — AI-powered Barbershop SaaS · FastAPI · PostgreSQL · Flutter · NVIDIA NIM · DeepSeek · Docker · Fly.io
 
 ---
 
-### `// ESTADÍSTICAS`
+### `// ESTADÍSTICAS DE GITHUB & CONTRIBUCIONES`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&theme=tokyonight&hide_border=true&border_color=00ffaa&icon_color=00ffaa&title_color=00ffaa" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffaa" height="165" />
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaredsalaz&theme=tokyo-night&hide_border=true&color=00ffaa&line=00ffaa&point=ffffff" width="100%" />
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaredsalaz&theme=tokyonight&hide_border=true" alt="Gráfico de Actividad de Contribuciones" />
+  </a>
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║   ¿Colaboramos?  ·  Robótica  ·  IA  ·  Ciberseguridad       ║
-║          jaredsalaz@github  //  Tuxtla, MX   🇲🇽              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://img.shields.io/badge/Colaboremos%20en-Robótica%20·%20IA%20·%20Ciberseguridad-00ffaa?style=flat-square&labelColor=020d08" />
 </div>
