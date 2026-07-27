@@ -5,10 +5,7 @@
     <img src="https://media.licdn.com/dms/image/v2/D4D03AQGuux8E-uIgfA/profile-displayphoto-shrink_400_400/B4DZQvntnTHYAg-/0/1735965727497?e=1786579200&v=beta&t=luaSKtET4sJoytgSKgxq7zNc7068CPuuZQuP9tgHbLg" width="140" height="140" style="border-radius: 50%;" alt="Jared Salazar" />
   </a>
 
-  <br/><br/>
-
-  <!-- Dynamic Typing Title Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F5D4&center=true&vcenter=true&width=600&height=50&lines=Hi+there!+I'm+Jared+Salazar+👋;Robotics+%26+Mechatronics+Enthusiast;AI+%26+Full-Stack+Developer;Cybersecurity+%26+Ethical+Hacking" alt="Typing SVG" />
+  <h1>Hi there, I'm <a href="https://github.com/Jaredsalaz">Jared Salazar</a> 👋</h1>
 
   <p align="center">
     <strong>Desarrollador de Software | Especialista en IA, Mecatrónica y Ciberseguridad</strong>
@@ -106,10 +103,25 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub & Contribuciones
 
-| <a href="https://github.com/Jaredsalaz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a> | <a href="https://github.com/Jaredsalaz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más usados" /></a> |
-| :---: | :---: |
+<div align="center">
+
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://github-stats-extended.vercel.app/api?username=Jaredsalaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://streak-stats.demolab.com?user=Jaredsalaz&theme=tokyonight&hide_border=true" alt="Racha de Contribuciones" />
+  </a>
+
+</div>
 
 ---
 
