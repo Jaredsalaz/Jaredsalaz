@@ -6,12 +6,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░ IDENTIFICADO ░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░ IDENTIFICADO ░░░░░░░░░░░░░░░░░░░░░░    ║
 ║                                                              ║
-║        J A R E D   S A L A Z A R   S A N C H E Z           ║
-║        Software Developer  //  Security  //  AI             ║
+║        J A R E D   S A L A Z A R   S A N C H E Z             ║
+║        Software Developer  //  Security  //  AI              ║
 ║                                                              ║
-║  STATUS: [██████████] ONLINE   LOC: Tuxtla, MX   ██ █ █    ║
+║  STATUS: [██████████] ONLINE   LOC: Tuxtla, MX   ██ █ █      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -136,8 +136,8 @@ Soy **Jared Salazar**, desarrollador backend apasionado por crear soluciones efi
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   ¿Colaboramos?  ·  Robótica  ·  IA  ·  Ciberseguridad      ║
-║          jaredsalaz@github  //  Tuxtla, MX   🇲🇽             ║
+║   ¿Colaboramos?  ·  Robótica  ·  IA  ·  Ciberseguridad       ║
+║          jaredsalaz@github  //  Tuxtla, MX   🇲🇽              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
