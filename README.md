@@ -21,7 +21,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=python+balam.py+--run;ssh+root%40fabes.local;go+build+.%2FsincroPro;nmap+-sV+target.host;git+commit+-m+"building+the+future")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=python+balam.py+--run;ssh+root%40exploit.local;go+build+.%2FsincroPro;nmap+-sV+target.host;git+commit+-m+"building+the+future")](https://git.io/typing-svg)
 
 <br/>
 
