@@ -116,11 +116,11 @@ Soy **Jared Salazar**, desarrollador backend apasionado por crear soluciones efi
 <div align="center">
 
   <a href="https://github.com/Jaredsalaz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Jaredsalaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
   </a>
   &nbsp;
   <a href="https://github.com/Jaredsalaz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
   </a>
 
   <br/><br/>
