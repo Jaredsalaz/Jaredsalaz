@@ -1,92 +1,133 @@
-## Hi there, I'm [Jared Salazar](https://github.com/Jaredsalaz) 👋
+<div align="center">
 
-Soy un desarrollador apasionado con experiencia en múltiples lenguajes de programación y frameworks. Aquí hay un poco sobre mí:
+  <!-- Dynamic Typing Title Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F5D4&center=true&vcenter=true&width=600&height=50&lines=Hi+there!+I'm+Jared+Salazar+👋;Robotics+%26+Mechatronics+Enthusiast;AI+%26+Full-Stack+Developer;Cybersecurity+%26+Ethical+Hacking" alt="Typing SVG" />
 
-**Mis intereses de investigación**:
-- Robótica y Mecatrónica
-- Redes y Electrónica
-- Inteligencia Artificial con TensorFlow
-- Ciberseguridad y Hacking Ético
-- Aplicacion Web
+  <p align="center">
+    <strong>Desarrollador de Software | Especialista en IA, Mecatrónica y Ciberseguridad</strong>
+  </p>
 
-## Certificados:
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jared-daniel-salazar-s%C3%A1nchez-aa1286320">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Jaredsalaz">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.credly.com/badges/cca912ff-f3b6-4881-b654-2aab305452c6">
+      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+    </a>
+  </p>
 
-- **PCEP – Certified Entry-Level Python Programmer**
-  - [Ver credencial](https://www.credly.com/badges/81c7306e-a9c7-4957-a570-87d2b6db0f3a)
+</div>
 
-## Habilidades:
+---
 
-#### Lenguajes:
+### 🚀 Sobre Mí
 
+👋 ¡Hola! Soy **Jared Salazar**, desarrollador apasionado por crear soluciones eficientes, escalables y seguras. Mi enfoque abarca desde programación de bajo nivel e ingeniería mecatrónica hasta desarrollo de sistemas distribuidos, inteligencia artificial y ciberseguridad.
+
+- ⚙️ **Áreas de Investigación:** Robótica, Mecatrónica y Sistemas Embebidos.
+- 🧠 **Inteligencia Artificial & Ciencia de Datos:** Redes neuronales y modelos de Machine Learning utilizando TensorFlow, NumPy, Pandas y Scikit-Learn.
+- 🛡️ **Ciberseguridad & Pentesting:** Hacking ético, auditoría de redes y seguridad de software con Kali Linux, Metasploit y Wireshark.
+- 💻 **Desarrollo Multilenguaje:** Desarrollo de alto rendimiento y APIs concurrentes con **C++**, **Go**, **Python**, **C#** y **JavaScript**.
+- 🌐 **Desarrollo Web Full-Stack:** Creación de aplicaciones interactivas y robustas con React, Laravel, Flask, Django y Blazor.
+- 🐳 **DevOps & Contenedores:** Despliegue y containerización de soluciones con **Docker** y Linux.
+
+---
+
+### 📜 Certificaciones Profesionales
+
+| Certificado | Institución | Credencial Oficial |
+| :--- | :---: | :---: |
+| 🐍 **PCAP™ – Certified Associate Python Programmer** | Python Institute | [<img src="https://img.shields.io/badge/Ver_Credencial-0052CC?style=for-the-badge&logo=credly&logoColor=white" height="28" />](https://www.credly.com/badges/cca912ff-f3b6-4881-b654-2aab305452c6) |
+| 🐍 **PCEP™ – Certified Entry-Level Python Programmer** | Python Institute | [<img src="https://img.shields.io/badge/Ver_Credencial-0052CC?style=for-the-badge&logo=credly&logoColor=white" height="28" />](https://www.credly.com/badges/81c7306e-a9c7-4957-a570-87d2b6db0f3a) |
+
+---
+
+### 🛠️ Habilidades & Tecnologías
+
+#### 💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
-#### Frameworks Web:
-
+#### 🌐 Frameworks & Desarrollo Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-#### Microcontroladores:
+#### 🧠 Inteligencia Artificial & Ciencia de Datos
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
-![Arduino Nano](https://img.shields.io/badge/Arduino_Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
-
-#### Sensores:
-
-![Sensores Ultrasónicos](https://img.shields.io/badge/Sensores%20Ultras%C3%B3nicos-000000?style=for-the-badge&logo=sensor&logoColor=white)&nbsp;
-![Sensores de Vibración](https://img.shields.io/badge/Sensores%20de%20Vibraci%C3%B3n-000000?style=for-the-badge&logo=sensor&logoColor=white)&nbsp;
-![Giroscopios](https://img.shields.io/badge/Giroscopios-000000?style=for-the-badge&logo=sensor&logoColor=white)&nbsp;
-
-#### Ciberseguridad:
-
+#### 🛡️ Ciberseguridad & Hacking Ético
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
-![BeEF](https://img.shields.io/badge/BeEF-000000?style=for-the-badge&logo=beef&logoColor=white)&nbsp;
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)&nbsp;
+![BeEF](https://img.shields.io/badge/BeEF-000000?style=for-the-badge&logo=beef&logoColor=white)&nbsp;
 ![PowerSploit](https://img.shields.io/badge/PowerSploit-000000?style=for-the-badge&logo=powersploit&logoColor=white)&nbsp;
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)&nbsp;
 
-#### Herramientas y Tecnologías:
+#### 🤖 Microcontroladores & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
+![Arduino Nano](https://img.shields.io/badge/Arduino_Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
+![Sensores Ultrasónicos](https://img.shields.io/badge/Sensores%20Ultras%C3%B3nicos-000000?style=for-the-badge)&nbsp;
+![Sensores de Vibración](https://img.shields.io/badge/Sensores%20de%20Vibraci%C3%B3n-000000?style=for-the-badge)&nbsp;
+![Giroscopios](https://img.shields.io/badge/Giroscopios-000000?style=for-the-badge)&nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### Librerías de IA y Ciencia de Datos:
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-
-#### Bases de Datos:
-
+#### 🗄️ Bases de Datos & Herramientas
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### IDEs:
-
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
+---
 
+### 📊 Estadísticas de GitHub
 
-<p align = "center">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Jaredsalaz">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jaredsalaz">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/jared-daniel-salazar-sánchez-aa1286320)
+  <br/>
 
-</p>
+  <a href="https://github.com/Jaredsalaz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaredsalaz&theme=tokyonight&hide_border=true" alt="Racha de Commits" />
+  </a>
+</div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaredsalaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tus estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaredsalaz&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
-¡Gracias por visitar mi perfil!
+<div align="center">
+
+  ⭐️ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar en proyectos de Robótica, IA o Ciberseguridad, no dudes en conectarte.* 🚀
+
+</div>
