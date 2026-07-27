@@ -118,7 +118,7 @@
   <br/><br/>
 
   <a href="https://github.com/Jaredsalaz">
-    <img src="https://streak-stats.demolab.com?user=Jaredsalaz&theme=tokyonight&hide_border=true" alt="Racha de Contribuciones" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaredsalaz&theme=tokyonight&hide_border=true" alt="Gráfico de Actividad de Contribuciones" />
   </a>
 
 </div>
